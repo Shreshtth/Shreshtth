@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreshtth
-- 👀 I’m interested in Computer science mainly software engineering, machine learning and deep learning .
-- 🌱 I’m currently learning machihne learning and coding.
-- 💞️ I’m looking to collaborate on some unique machine learning project from sratch.
+- 👀 I’m interested in Software Engeenering.
+- 🌱 I’m currently learning full stack development.
+- 💞️ I’m looking to collaborate on some unique machine learning project and frontend projects.
 - 📫 How to reach me my intsagram username is Shreshtth.Joshi and you can mail me at shreshtthpersonal@gmail.com. 
 
 <!---

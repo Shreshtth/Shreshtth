@@ -8,3 +8,4 @@
 Shreshtth/Shreshtth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Shreshtth's GitHub | Stats](https://stats.quira.sh/Shreshtth/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shreshtth)
